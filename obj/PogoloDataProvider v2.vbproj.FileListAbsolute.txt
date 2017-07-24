@@ -1,0 +1,11 @@
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\PogoloDataProviderv2.dll
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\PogoloDataProviderv2.pdb
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\PogoloDataProviderv2.xml
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\PogoloUtilitiesv2.dll
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\Interop.Excel.dll
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\PogoloUtilitiesv2.pdb
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\bin\PogoloUtilitiesv2.xml
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProviderv2.dll
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProviderv2.xml
+C:\Documents and Settings\cvestre\My Documents\Visual Studio 2005\Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProviderv2.pdb

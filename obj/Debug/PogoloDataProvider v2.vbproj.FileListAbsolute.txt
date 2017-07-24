@@ -1,0 +1,11 @@
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\PogoloDataProviderv2.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\PogoloDataProviderv2.pdb
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\PogoloDataProviderv2.xml
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\PogoloUtilitiesv2.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\Interop.Excel.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\PogoloUtilitiesv2.pdb
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\bin\PogoloUtilitiesv2.xml
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProvider v2.vbprojResolveAssemblyReference.cache
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProviderv2.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProviderv2.xml
+C:\Users\cvestre\Documents\.NET Projects\PogoloDataProvider v2\obj\Debug\PogoloDataProviderv2.pdb

@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\PogoloDataProviderv2.dll
+bin\PogoloDataProviderv2.pdb
+bin\PogoloDataProviderv2.xml
+bin\PogoloUtilitiesv2.dll
+bin\Interop.Excel.dll
+bin\PogoloUtilitiesv2.pdb
+bin\PogoloUtilitiesv2.xml
+obj\Debug\PogoloDataProviderv2.dll
+obj\Debug\PogoloDataProviderv2.xml
+obj\Debug\PogoloDataProviderv2.pdb
+bin\Interop.VBIDE.dll
